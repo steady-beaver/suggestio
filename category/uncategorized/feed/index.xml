@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Uncategorized &#8211; Suggestio &#8211; Speech instructor</title>
-	<atom:link href="https://suggestio-speech-instructor.netlify.app/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
-	<link>https://suggestio-speech-instructor.netlify.app/</link>
+	<atom:link href="https://master--suggestio-speech-instructor.netlify.app/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
+	<link>https://master--suggestio-speech-instructor.netlify.app/</link>
 	<description></description>
 	<lastBuildDate>Mon, 06 Feb 2023 10:59:23 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,28 +21,28 @@
 	<generator>https://wordpress.org/?v=6.2.2</generator>
 
 <image>
-	<url>https://suggestio-speech-instructor.netlify.app/wp-content/uploads/2023/06/cropped-suggestio-logo-4-32x32.png</url>
+	<url>https://master--suggestio-speech-instructor.netlify.app/wp-content/uploads/2023/06/cropped-suggestio-logo-4-32x32.png</url>
 	<title>Uncategorized &#8211; Suggestio &#8211; Speech instructor</title>
-	<link>https://suggestio-speech-instructor.netlify.app/</link>
+	<link>https://master--suggestio-speech-instructor.netlify.app/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Hello world!</title>
-		<link>https://suggestio-speech-instructor.netlify.app/hello-world/</link>
-					<comments>https://suggestio-speech-instructor.netlify.app/hello-world/#comments</comments>
+		<link>https://master--suggestio-speech-instructor.netlify.app/hello-world/</link>
+					<comments>https://master--suggestio-speech-instructor.netlify.app/hello-world/#comments</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Mon, 06 Feb 2023 10:59:23 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">https://suggestio-speech-instructor.netlify.app/?p=1</guid>
+		<guid isPermaLink="false">https://master--suggestio-speech-instructor.netlify.app/?p=1</guid>
 
 					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
 										<content:encoded><![CDATA[
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://suggestio-speech-instructor.netlify.app/hello-world/feed/</wfw:commentRss>
+					<wfw:commentRss>https://master--suggestio-speech-instructor.netlify.app/hello-world/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
